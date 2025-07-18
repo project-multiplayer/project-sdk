@@ -1,2 +1,2 @@
-# extended-sdk
-Extended Multiplayer SDK
+# Project SDK
+Project Multiplayer SDK
